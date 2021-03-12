@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b1e9d33-ee95-47c9-b53c-06d8574e72e3" name="remote" url="http://172.81.179.50">
+        <fileTransfer accessType="SFTP" host="172.81.179.50" port="22" sshConfigId="ddeb0ab1-c518-4a94-b130-ae40ab26ed1e" sshConfig="centos@172.81.179.50:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
